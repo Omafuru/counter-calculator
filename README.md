@@ -1,4 +1,4 @@
-###counter calculator
+### Counter Calculator
 
 ## About this application
 
